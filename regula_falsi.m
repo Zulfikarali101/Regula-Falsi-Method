@@ -1,4 +1,4 @@
-%Metode Regulafalsi
+%Regulafalsi
 %Zulfikar Ali Ibadurrahman
 %12918030
 
